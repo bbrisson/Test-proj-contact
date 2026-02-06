@@ -1,0 +1,17 @@
+[
+  {
+    "nom": "Marie Curie",
+    "email": "marie.curie@science.fr",
+    "telephone": "0123456789"
+  },
+  {
+    "nom": "Albert Einstein",
+    "email": "albert@physics.com",
+    "telephone": "0198765432"
+  },
+  {
+    "nom": "Ada Lovelace",
+    "email": "ada@computing.uk",
+    "telephone": "0155555555"
+  }
+]
